@@ -1,0 +1,31 @@
+,Importance
+num__Days for shipment (scheduled),0.23298579692528051
+cat__Shipping Mode_Standard Class,0.19209946248148985
+cat__Shipping Mode_First Class,0.153163759459488
+cat__Shipping Mode_Second Class,0.06475918893782223
+num__Order_Hour,0.0400689709116068
+cat__Shipping Mode_Same Day,0.03536042915701783
+num__Longitude,0.022186577069249952
+num__Latitude,0.022060992923146113
+cat__Type_TRANSFER,0.01702369283562669
+num__Order Item Total,0.014328275015346552
+num__Order Item Discount,0.013185282193391901
+num__Order_Month,0.010810001989359039
+num__Order_DayOfWeek,0.01045478546365405
+num__Order Item Discount Rate,0.010159117909627782
+num__Sales,0.008611762159596114
+num__Order Item Product Price,0.006737774032208265
+num__Category Id,0.006576215975323696
+num__Product Price,0.006558170992330596
+cat__Type_PAYMENT,0.0055437948944287215
+cat__Type_DEBIT,0.005372911272707988
+num__Order_Year,0.00476770997426147
+num__Order Item Quantity,0.004239921288275301
+num__Department Id,0.0038272598948033724
+cat__Customer Segment_Home Office,0.003241241642844199
+cat__Customer Segment_Corporate,0.003123751389518302
+cat__Customer Segment_Consumer,0.0030387818051027405
+cat__Type_CASH,0.002053657802721613
+cat__Order Country_Indonesia,0.0018971954512726661
+cat__Order Country_Francia,0.0014337251199770527
+cat__Department Name_Fan Shop,0.001419125613550434
